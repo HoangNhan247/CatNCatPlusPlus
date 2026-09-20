@@ -1,2 +1,2 @@
-# ToiKhiHocLapTrinh
-Chuỗi những ngày tháng học lập trình của tôi sẽ bắt đầu từ đây :)
+# Cat / Cat++
+My scripts / projects written in C / C++ so I could review myself when I'm improved
